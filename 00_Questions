@@ -4,4 +4,12 @@
 - What is event loop?
     - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop
 - Java script is single-threaded or multi threaded.
+
+- What is global execution context or global space?
+- What is shortest javascript program?
+- What is this and window?
+- Is it true this === window ?
+- Difference between undefined and not defined?
+- Is undefined equal to empty?
+- Is JavaScript a Weakly/loosely tight language?
 - What is Lexical Environment
