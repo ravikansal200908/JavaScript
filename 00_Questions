@@ -13,3 +13,19 @@
 - Is undefined equal to empty?
 - Is JavaScript a Weakly/loosely tight language?
 - What is Lexical Environment
+- What is scope chain?
+- What is Temporal Dead Zone?
+- Difference between SyntaxError vs ReferenceError vs TypeError ?
+- Is memory allocated in case of let?
+- What is block/compound statement and block scoped?
+- What is Shadowing in JS?
+- What is illegal shadowing.
+- What is closures?
+- Disadvantage of closures?
+- What is garbage collector?
+- What is smart garbage collector?
+- What is Anonymous Function?
+- What is First Class Function/Citizens?
+- What is Function Statement vs Function Expression vs Function Declaration?
+- What is callback function in JS?
+- 
