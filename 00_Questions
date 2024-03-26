@@ -28,4 +28,28 @@
 - What is First Class Function/Citizens?
 - What is Function Statement vs Function Expression vs Function Declaration?
 - What is callback function in JS?
-- 
+- What is a callback function in Javascript?
+- What is call stack or java script engine?
+- What is web API's?
+    - setTimeout()
+    - DOM API's
+    - fetch()
+    - localStorage
+    - console
+    - Location
+    - Role of window
+- What is callback/task queue and what is it's need?
+- What is microtask queue? 
+- What is event loop?
+- What is startvation in task queue?
+- What is JavaScript Runtime Environment?
+- Some example of java script engine
+    - Microsoft Edge ==>> Chakra
+    - Mozilla ==>> SpiderMonkey
+    - GoogleChrome ==>> V8
+- What is Token?
+- What is Parsing and AST(Abstract Syntax Tree)? Site to check: https://astexplorer.net/
+- What is JIT(Just in time) compilation?
+- How can we block main thread with coding?
+- What is Higher Order Functions?
+- What is map,filter and reduce?

@@ -1,5 +1,17 @@
 <script>
     // Paste JS code here
+    setTimeout(function () {
+        console.log("Inside setTimeout")
+    }, 5000)
 
+
+    function x(y) {
+        console.log("x")
+        y()
+    }
+
+    x(function y() {
+        console.log("y")
+    })
 
 </script>
