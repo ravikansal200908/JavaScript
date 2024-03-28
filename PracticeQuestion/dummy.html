@@ -1,17 +1,9 @@
 <script>
     // Paste JS code here
-    setTimeout(function () {
-        console.log("Inside setTimeout")
-    }, 5000)
-
-
-    function x(y) {
-        console.log("x")
-        y()
-    }
-
-    x(function y() {
-        console.log("y")
-    })
+    console.log("Start")
+    const URL = "https://api.github.com/users/ravikansal200908"
+    const user = fetch(URL)
+    console.log('user : ', user)
+    console.log("End")
 
 </script>

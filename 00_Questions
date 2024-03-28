@@ -53,3 +53,14 @@
 - How can we block main thread with coding?
 - What is Higher Order Functions?
 - What is map,filter and reduce?
+- Callback issue
+    - Callback Hell / Pyramid of doom
+    - Inversion of control
+- What is promises?
+- Example of promise state i.e. pending, fulfilled and rejected
+- What is promise chaining?
+- Available promise APIs.
+    - Promise.all()
+    - Promise.allSettled()
+    - Prmomise.race()
+    - Prmomise.any())
